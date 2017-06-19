@@ -5,5 +5,7 @@ public class Hello {
 		System.out.println("天天开心！");
 		System.out.println("永远快乐！");
 		System.out.println("世界你好！");
+		Admin admin = new Admin();
+		Emp emp = new Emp();
 	}
 }
