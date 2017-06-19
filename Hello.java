@@ -10,5 +10,6 @@ public class Hello {
 		Emp emp = new Emp();
 		Date date = new Date();
 		System.out.println(date);
+		System.out.println("又来修改！");
 	}
 }
