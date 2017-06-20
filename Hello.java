@@ -11,5 +11,6 @@ public class Hello {
 		Date date = new Date();
 		System.out.println(date);
 		System.out.println("又来修改！");
+		System.out.println("打补丁");
 	}
 }
